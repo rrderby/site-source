@@ -1,4 +1,4 @@
-Website for Resurrection Roller Derby. Created and administered by Casey Lewiston/Shredinger, admin@rrderby.org. See below for use notes. This is built using Gatsby and a handful of dependencies, with data from Google Calendar API, Contentful and internal files.
+Website for Resurrection Roller Derby. Created by Casey Lewiston, admin@rrderby.org. See below for use notes. This is built using Gatsby and a handful of dependencies, with data from Google Calendar API, Contentful and internal files.
 
 <h2>Calendar Module</h2>
 
