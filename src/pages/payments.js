@@ -34,13 +34,13 @@ const Payments = () => (
             </div>
           </div>
       </div>
-      <div className="row">
+      <div className="row" style={{display: "none"}}>
           <div className="col-lg-12 text-center">
             <SuggestionBox />
           </div>
       </div>
       <br />
-      <div className="row">
+      <div className="row" style={{display: "none"}}>
         <div className="col-lg-12-text-center">
         <h3><a href="https://docs.google.com/forms/d/e/1FAIpQLScQaFNUfZjEjISN8Xbs_dg-_5u2LKWYejfO74sOPAXK4UL0Dg/viewform?usp=sf_link" target="_new">Email Account Request Form</a></h3>
         <br />
