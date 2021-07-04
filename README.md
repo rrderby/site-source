@@ -10,8 +10,10 @@ For games, use the title "Home Game Vs. Team" or "Away Game vs. Team". This modu
 
 Sponsors are sourced from Contentful. Anyone associated with this department should make an account there and be added. The content type 'Sponsors' does what you need for this. A new build will have to be generated to see the results of this.
 
-No other data is currently used from Contentful. This is planned.
+No other data is currently used from Contentful.
 
 <h2>Deployment</h2>
 
-Pushes to Master are automatically pulled to the server and built. This is visible at react.rrderby.org, which should be treated as the alpha staging site. After a deployment starts, visit this URL to make sure everything works as expected. Once your happy with it, visit deploy.rrderby.org/launch.php to make the site live. In case of errors, an admin can do this manually.
+This is now hosted on Netflify, which will automatically deploy from this repository. 
+
+Since this is a static site host that feeds off of public code, that also means no credentials are included here. Emailed forms, in particular, should now use external services when enabled.
